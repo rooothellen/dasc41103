@@ -4,13 +4,11 @@ Group 29's code and data for DASC 44103/Machine Learning projects.
 ## File structure
 ```
 .
-├── proj1/
-│   ├── data/
-│   │   ├── processed_data
-│   │   └── raw_data
-│   ├── models
-│   ├── reflection
-│   └── presentation
-├── proj2
-└── proj3
+└── proj1
+    ├── data
+    │   ├── processed_data
+    │   └── raw_data
+    ├── models
+    │   └── output             <- deliverable csv files for project 1 here!
+    └── reflection
 ```
